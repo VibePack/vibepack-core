@@ -1,0 +1,6 @@
+{
+  "name": "@vibepack/neon-saas",
+  "version": "0.1.0",
+  "private": true,
+  "files": ["vibe.json", "vibe.css", "tailwind.js"]
+}
