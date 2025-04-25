@@ -1,0 +1,7 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./dist"   // keep all build artefacts in packages/cli/dist
+  },
+  "include": ["src"]
+}
