@@ -1,0 +1,7 @@
+{
+  "meta": { "name": "Neon SaaS", "version": "0.1.0" },
+  "tokens": {
+    "color": { "primary": { "500": "#6366f1", "600": "#4f46e5" } },
+    "radius": { "sm": "4px", "lg": "12px" }
+  }
+}
