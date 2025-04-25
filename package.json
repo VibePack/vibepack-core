@@ -1,0 +1,12 @@
+{
+	"devDependencies": {
+		"@types/node": "^22.15.2",
+		"chalk": "^5.4.1",
+		"eslint": "^9.25.1",
+		"prettier": "^3.5.3",
+		"ts-node": "^10.9.2",
+		"tsup": "^8.4.0",
+		"typescript": "^5.8.3",
+		"zod": "^3.24.3"
+	}
+}
